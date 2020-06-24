@@ -1,0 +1,36 @@
+ul li{list-style: none;float: left;padding-right: 20px;}
+		a{text-decoration: none;}
+		input{border-radius: 5px; height: 30px;font-size: 19px;}
+		body{font-family: Helvetica, Arial, sans-serif; font-size: 19px;width: 98%;height: 98%}
+		a:link, a:visited
+			{
+			color:blue;
+			text-decoration:none;
+			}
+			 
+		a:hover
+			{
+			color:red;
+			font-weight:bold;
+			}
+			 
+		a:active
+			{
+			background:yellow;
+			}
+		a#linkforgot:link, a#linkforgot:visited
+			{
+			color:#f5f2f7;
+			text-decoration:none;
+			}
+		.divbody{
+			width: 100%;
+			margin: 0px 20px 0px 0px;
+		}
+		#labellogin{border: 0.5px solid #1d3b77; padding: 4px}
+		.spdiv{width: 95%;
+				color: #0e385f;
+				font-size: 20px;
+				font-weight: bold;
+				line-height: 29px;
+				margin-top: 20px;}
